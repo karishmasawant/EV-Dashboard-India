@@ -44,16 +44,17 @@ This project explores the evolving Electric Vehicle (EV) landscape in the United
 ## 🖼️ Preview  
 
 ### EV Overview  
-![EV Overview](./ev-overview.png)
+![EV Overview](./EV DA Overview.png)
 
 ### State-wise Analysis  
-![State Analysis](./state-analysis.png)
+![State Analysis](./EV DA statewise.png)
 
 ### EV Type Segmentation  
-![EV Type Segmentation](./ev-type-segmentation.png)
+![EV Type Segmentation](./EV DA BEV.png)
+![EV Type Segmentation](./EV DA PHEV.png)
 
-### Vehicle Category Insights  
-![Vehicle Category](./vehicle-category.png)
+### Vehicle CAFV Eligibility  
+![Vehicle Category](./EV DA Eligible.png)
 
 ---
 
