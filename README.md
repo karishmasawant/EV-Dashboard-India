@@ -53,8 +53,8 @@ This project explores the evolving Electric Vehicle (EV) landscape in the United
 ![BEV Segmentation](EV%20DA%20BEV.png)  
 ![PHEV Segmentation](EV%20DA%20PHEV.png)
 
-### Vehicle Category Insights  
-![Vehicle Category](./vehicle-category.png)
+### EV CAFV Eligibility  
+![CAFV Eligible Vehicles](EV%20DA%20CAFV%20Eligible.png)
 
 ---
 
