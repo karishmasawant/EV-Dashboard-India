@@ -44,7 +44,7 @@ This project explores the evolving Electric Vehicle (EV) landscape in the United
 ## 🖼️ Preview  
 
 ### EV Overview  
-![EV Overview](./EV DA Overview.png)
+![EV Overview](./(https://github.com/karishmasawant/EV-Dashboard-USA/commit/fa4218e43ac0cc06ab254f2952ee2b72ccff2080#diff-5c9f3c6eac6b5f12632b4c8756dc23c8500743751a0411d42a75bd4b609f8c1c)
 
 ### State-wise Analysis  
 ![State Analysis](./state-analysis.png)
